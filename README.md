@@ -33,4 +33,4 @@ You may use the provided append method to add nodes to the new list.
 
 Example: if list1 is 1->5->11, and list2 is 2->3->10->22, then the result should be 1->2->3->5->10->11->22.
 
-The instructor provided the tests for this homework (see Homework3Test file), but passing these basic tests does not guarantee that your code is correct. You are responsible for doing additional testing.
+The instructor provided the tests for this homework (see Homework4Test file), but passing these basic tests does not guarantee that your code is correct. You are responsible for doing additional testing.
